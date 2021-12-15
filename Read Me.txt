@@ -1,0 +1,19 @@
+# ***  Assumptions made in the programe    ***
+# the input file given to me is an text file with an extension .txt
+# mildly profane words: idiot, stupid, donkey
+# medium profane words: shrewd, cunning, demagouge
+# harsh profane words: monkey, rat
+# filename is myfile.txt its the file in which the collection of twitter comments are located
+# the input file(myfile.txt) is placed in the same folder where the script/ code file is placed
+
+# *** Logic Explaination ***
+# first open the file in read mode
+# copy all the contents into a list (it automatically gets seperated by line)
+# remove all the '\n' characters
+# convert list to string
+# split the string at '.'(full stop) as problem constraint states that analysis will be done based on sentences
+# define what is mild, medium and harshly profane use dictionary with clearly defined words, their scores along with category
+# extract a sentence from a list
+# check for harsh, meduium and mildly profane words, once a category is discovered...
+#stop checking further and assign it to profanity value(prof in this program)
+#print the sentence with level of profanity in that language 
