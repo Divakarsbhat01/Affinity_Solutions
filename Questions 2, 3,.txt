@@ -1,0 +1,15 @@
+Question 2: Which is an interesting data set you discovered recently? why is it your favorite? no datasets from kaggle please...
+
+Answer: data set that contains neet exam ranking of karnataka, located in kcet website, it helps in providing insights about various factors such as 
+	category, marks in specific sections, easy questions, scoring subject etc that help in getting a seat in good college without actually putting 
+	much effort while studying and making the overall process easier.
+
+Question 3: Why do you need a database? we can store everything in a file no?
+
+Answer: database that is a key word, making a database means storing the data in an organized way so that it can be retrived,analysed(manipulated) and
+	deleted fast and efficiently. data in a database is stored in tables / key value pair and each coloumn contain one type of entity. indexing helps
+	in retriving the data in a faster way, this is not possible in a way we store store data in a table 
+
+Question 4: How well versed are you on unix command line?
+
+Answer:	    I only know the fundamental basics.
